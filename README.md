@@ -1,5 +1,5 @@
 # Optimising UNet Models
-In this repo you will a project that I worked on during for a year for my final dissertation. 
+In this repo is a porject that I worked on during a year for my final dissertation. 
 
 ## Project Objectives:
 
