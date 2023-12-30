@@ -30,13 +30,13 @@ However, we went with a more focus goal of a faster convergence indicated by a l
 
 # Investigation - Machine Learning techniques:
 
-• Pruning
+1. Pruning:
   – Unstructured
   – Structured
   – Weightings
-• Optimisers
+2. Optimisers
   – Adam
   – AdaMax
   – Lion
-• Batch sizes
-• Epoch
+3. Batch sizes
+4. Epoch
